@@ -4,7 +4,45 @@
     }
 }
 
-.welcome-section{
+#welcome-section{
     height: 100vh;
     overflow: auto;
+    background-color: cornflowerblue;
+}
+
+h1{
+    padding: 300px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: bold;
+    font-size: 80px;
+}
+
+#projects{
+    height: 100vh;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: bold;
+    font-size: 50px;
+    color: lightskyblue;
+}
+
+#navbar{
+    position: fixed;
+    top: 0;
+    width: 1625px;
+    height: 50px;
+    background-color: cornflowerblue;
+}
+
+#navbar h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#profile{
+    height: 100vh;
+    background-color: cornflowerblue;
 }

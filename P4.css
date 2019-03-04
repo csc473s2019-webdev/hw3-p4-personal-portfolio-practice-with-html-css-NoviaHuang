@@ -1,9 +1,8 @@
 @media only screen and (max-width: 600px){
-    body{
-        background-color:lightblue;
+    #navbar{
+        width: 600px;
     }
 }
-
 #welcome-section{
     height: 100vh;
     overflow: auto;
@@ -23,7 +22,11 @@ h1{
 }
 
 .project-title{
-
+    float: left;
+    width: 30%;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: bold;
+    font-size: 30px;
 }
 
 h2{
@@ -64,15 +67,11 @@ h2{
     right: 70px;
 }
 
-#profile{
-    height: 100vh;
-    background-color: cornflowerblue;
-}
-
 h4{
     padding: 400px;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-style: bold;
-    font-size: 80px;
+    font-size: 50px;
+    background-color: cornflowerblue;
 }

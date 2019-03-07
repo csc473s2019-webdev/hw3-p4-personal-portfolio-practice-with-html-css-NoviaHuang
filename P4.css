@@ -22,8 +22,9 @@ h1{
 }
 
 .project-tile{
-    float: left;
+    margin: 60px;
     width: 30%;
+    padding: 100px;
     font-family: 'Courier New', Courier, monospace;
     font-style: bold;
     font-size: 30px;

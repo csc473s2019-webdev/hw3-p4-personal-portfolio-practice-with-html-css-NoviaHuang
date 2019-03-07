@@ -18,13 +18,13 @@ h1{
 }
 
 #projects{
-    height: 100vh;
+    height: 10vh;
 }
 
-.project-tile{
+h3.project-tile{
+    display: inline;
     margin: 60px;
-    width: 30%;
-    padding: 100px;
+    padding: 250px;
     font-family: 'Courier New', Courier, monospace;
     font-style: bold;
     font-size: 30px;
